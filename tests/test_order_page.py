@@ -69,3 +69,4 @@ class TestOrderScooter:
             assert Data.success_order_text in success_order_text, (
                 f"Ожидалось, что сообщение содержит '{Data.success_order_text}', но получили '{success_order_text}'"
             )
+            

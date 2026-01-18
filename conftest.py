@@ -19,3 +19,4 @@ def driver(request):  # создание и закрытие драйвера/б
     yield driver
     print("\nquit browser..")
     driver.quit()
+    

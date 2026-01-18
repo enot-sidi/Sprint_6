@@ -22,3 +22,4 @@ class TestFAQDropdown:
 
         with allure.step(f"Проверка, что текст ответа '{actual_text}' соответствует ожидаемому '{expected_text}'"):
             assert actual_text == expected_text, f"Ожидалось '{expected_text}', но получили '{actual_text}'"
+            
