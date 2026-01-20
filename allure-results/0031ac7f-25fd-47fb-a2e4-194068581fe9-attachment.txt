@@ -1,0 +1,2 @@
+2026-01-20 20:22:12,563 - INFO - start firefox browser for test..
+2026-01-20 20:22:23,889 - INFO - quit browser..
