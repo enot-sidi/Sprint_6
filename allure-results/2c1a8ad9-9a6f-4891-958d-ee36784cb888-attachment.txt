@@ -1,0 +1,2 @@
+[32mINFO    [0m root:conftest.py:22 start firefox browser for test..
+[32mINFO    [0m root:conftest.py:30 quit browser..
